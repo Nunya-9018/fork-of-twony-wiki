@@ -1,0 +1,4 @@
+- [**Commands**](https://github.com/TownyAdvanced/Towny/wiki/Towny-Commands)
+- [**Permission Nodes**](https://github.com/TownyAdvanced/Towny/wiki/Towny-Permission-Nodes)
+- [**Placeholders (PAPI)**](https://github.com/TownyAdvanced/Towny/wiki/Placeholders)
+- [**Configs**](https://github.com/TownyAdvanced/Towny/wiki/Config-Files)
